@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="backspace">@color/text</color>
+
+    <!--button colors night-->
+
+    <color name="text">#dddcdc</color>
+
+    <color name="linearColor">#DAD8D8</color>
+    <color name="btnBackground">#252424</color>
+    <color name="btnBackground2">#323232</color>
+
+    <color name="page">#000000</color>
+</resources>
